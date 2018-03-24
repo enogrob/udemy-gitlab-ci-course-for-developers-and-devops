@@ -18,21 +18,21 @@ Learn everything you need to about the subject of this `Udemy` project.
 Section: 1
 0 / 7
 GitLab Server Setup
-[ ] 1. Overview and Preparation 2:44
-[ ] 2. GitLab Server Installation 2:52
-[ ] 3. DNS and HTTPs 1:02
-[ ] 4. DNS Configuration 3:25
-[ ] 5. HTTPS Configuration 4:55
-[ ] 6. Email Configuration 1:16
-[ ] 7. Summary 0:00
+[x] 1. Overview and Preparation 2:44
+[x] 2. GitLab Server Installation 2:52
+[x] 3. DNS and HTTPs 1:02
+[x] 4. DNS Configuration 3:25
+[x] 5. HTTPS Configuration 4:55
+[x] 6. Email Configuration 1:16
+[x] 7. Summary 0:00
 
 Section: 2
 0 / 4
 Git and Markdown Basic
-[ ] 8. Git Basic 6:38
-[ ] 9. Real Demo about Git 7:11
-[ ] 10. Markdown Basic 8:13
-[ ] Quiz 1: markdown file extension 0:00
+[x] 8. Git Basic 6:38
+[x] 9. Real Demo about Git 7:11
+[x] 10. Markdown Basic 8:13
+[x] Quiz 1: markdown file extension 0:00
 
 Section: 3
 0 / 10
